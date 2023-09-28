@@ -12,4 +12,8 @@ This is an example to show different parts of the git repository
 
 ## Deployment
 
+This is a simple web project, deployment can be on any web server or even local file system.
+
 ## How to contribute
+
+Feel free to branch out
