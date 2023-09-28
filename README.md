@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+This is an example to show different parts of the git repository
+
 ## Deployment
 
 ## How to contribute
