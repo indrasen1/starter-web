@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for going into details of git functionality
+This is a simple website project for going into details of git functionality. Adding a line for the rebasing example.
 
 ## Purpose
 
